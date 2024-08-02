@@ -3,11 +3,7 @@ margin: 0;
 gap:0;
 padding: 0;
 }
-body{
-    width: 100%;
-    background-color: rgb(252, 252, 252);
-   
-}
+
 .header{
     background-color: #fdd900;
     width: 100vw;
