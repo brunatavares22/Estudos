@@ -6,11 +6,12 @@ import lupa from "../../assets/lupa2.png"
 import coração from "../../assets/coração.png"
 import usuario from"../../assets/perfil-de-usuario.png"
 import cesta from"../../assets/cesta.png"
+
 const Header = () => {
   return (
     
     <header className='header'>
-      
+     
       <img src={logo} alt="logo saraiva" className='logo' />
       <img src={menu} alt="icone menu" className='menu'/>
       <p className='p1'>Categorias</p>

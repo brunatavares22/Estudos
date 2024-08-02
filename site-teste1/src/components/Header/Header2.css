@@ -1,0 +1,15 @@
+.barra-preta{
+    background-color: black;
+    width: 100vw;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p5{
+    color: white;
+    font-size: 14px;
+}

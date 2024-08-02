@@ -5,7 +5,7 @@ padding: 0;
 }
 body{
     width: 100%;
-    background-color: blue;
+    background-color: rgb(252, 252, 252);
    
 }
 .header{
@@ -15,6 +15,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.header-barra{
+    display: flex;
+    flex-direction: column;
 }
 
 .logo{
@@ -112,4 +116,12 @@ cursor: pointer;
 
 .p4{
     font-size: 12px;
+}
+
+.barra-preta{
+    background-color: black;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
 }
